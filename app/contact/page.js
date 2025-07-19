@@ -50,13 +50,13 @@ const Contact = () => {
             </div>
             
             <div className='bg-purple-100 rounded-lg p-6'>
-              <h3 className='text-xl font-semibold text-purple-700 mb-4'>Let's Connect!</h3>
+              <h3 className='text-xl font-semibold text-purple-700 mb-4'>Let&apos;s Connect!</h3>
               <p className='text-gray-700 mb-4'>
                 Whether you have questions about ShorTify, want to collaborate on a project, or just want to say hello,
-                I'd love to hear from you. Feel free to reach out through any of the channels listed here.
+                I&apos;d love to hear from you. Feel free to reach out through any of the channels listed here.
               </p>
               <p className='text-gray-700'>
-                I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+                I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
               </p>
             </div>
           </div>
