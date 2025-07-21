@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ShorTify
 
-## Getting Started
+Transform Long URLs into Short Links
 
-First, run the development server:
+[Live Demo on Vercel](https://shortify-six-xi.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ShorTify is a modern, reliable, and lightning-fast URL shortener that helps you make your links more manageable and shareable. Whether you want to tidy up unwieldy URLs or track your links, ShorTify provides a seamless and secure experience.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Lightning Fast**: Generate shortened URLs instantly with our optimized infrastructure.
+- **Secure & Reliable**: Your links are safe, available 24/7 with enterprise-grade security.
+- **User Friendly**: Simple and intuitive interface that anyone can use without any learning curve.
+- **Modern UI**: Clean, responsive design for a delightful user experience.
 
-## Learn More
+## 🚀 Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/shortify.git
+   cd shortify
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Run locally:**
+   ```bash
+   npm run dev
+   ```
+4. **Visit:**
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌐 Live Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+ShorTify is live and available at: [https://shortify-six-xi.vercel.app/](https://shortify-six-xi.vercel.app/)
 
-## Deploy on Vercel
+## 📁 Project Structure
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `app/` - Next.js app directory (pages, API routes, static assets)
+- `components/` - Reusable React components
+- `lib/` - Utility libraries (e.g., MongoDB connection)
+- `public/` - Static files and images
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📦 Built With
+
+- [Next.js](https://nextjs.org/) - React framework for production
+- [MongoDB](https://www.mongodb.com/) - Database for storing URLs
+- [Vercel](https://vercel.com/) - Deployment platform
+
+## 📝 License
+
+© 2025 Shriyans Mukherjee. All rights reserved.
+
+---
+
+> Make your links more manageable and shareable with **ShorTify** – the most reliable URL shortener for your needs.
